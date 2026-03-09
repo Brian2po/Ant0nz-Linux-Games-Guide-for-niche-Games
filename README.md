@@ -1,10 +1,10 @@
-# Ant0nz Linux Games Guide 🐧
+# Linux Games Guide 🐧
 
 A community-driven collection of guides for installing and playing niche Windows games on Linux. 
 
 ## 📂 Current Guides
 * [7 Deadly Sins: Grand Cross](./games/7-Deadly-Sins-Grand-Cross.md)
-* [Game B](./games/game-b.md)
+* [Goddess of Victory: Nikke](https://gist.github.com/d-kja/74633df5f2d6e55cb2a77c3f9d6acece#file-nikke-linux-md)
 * 
 
 ## 🚀 How to Use
