@@ -3,9 +3,9 @@
 A community-driven collection of guides for installing and playing niche Windows games on Linux. 
 
 ## 📂 Current Guides
-* [7 Deadly Sins: Grand Cross](./games/7 Deadly Sins: Grand Cross.md)
+* [7 Deadly Sins: Grand Cross](./games/7_Deadly_Sins:_Grand_Cross.md)
 * [Game B](./games/game-b.md)
-* *Add your guide here!*
+* 
 
 ## 🚀 How to Use
 1. Browse the `games/` folder for the title you want to play.
