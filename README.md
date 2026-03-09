@@ -3,7 +3,7 @@
 A community-driven collection of guides for installing and playing niche Windows games on Linux. 
 
 ## 📂 Current Guides
-* [Game A](./games/game-a.md)
+* [7 Deadly Sins: Grand Cross](./games/7 Deadly Sins: Grand Cross.md)
 * [Game B](./games/game-b.md)
 * *Add your guide here!*
 
