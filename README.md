@@ -1,7 +1,12 @@
 # Linux Games Guide 🐧
 
-A community-driven collection of guides for installing and playing niche Windows games on Linux. 
+A community-driven collection of guides for installing and playing niche Windows games on Linux.
 
+(this is for my personal games that I play, But I would be happy if they help other people)
+
+(If I find guides that other people have already done, I'll also link their guide here so please give your thanks to them 🥳) 
+
+> readme made by chatgpt cause I'm lazy
 ## 📂 Current Guides
 * [7 Deadly Sins: Grand Cross](./games/7-Deadly-Sins-Grand-Cross.md)
 * [Goddess of Victory: Nikke](https://gist.github.com/d-kja/74633df5f2d6e55cb2a77c3f9d6acece#file-nikke-linux-md)
