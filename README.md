@@ -9,10 +9,12 @@ A community-driven collection of guides for installing and playing niche Windows
 > readme made by chatgpt cause I'm lazy
 ## 📂 Current Guides
 * [7 Deadly Sins: Grand Cross](./games/7-Deadly-Sins-Grand-Cross.md)
+  > Added in [Twintail Launcher](https://github.com/TwintailTeam/TwintailLauncher)! check it out
 * [Goddess of Victory: Nikke](https://gist.github.com/d-kja/74633df5f2d6e55cb2a77c3f9d6acece#file-nikke-linux-md)
 *
-## 📥 An Anime Games Launcher Project
+## 📥 Multi-Anime Games Projects
 * Check out: https://github.com/an-anime-team/anime-games-launcher/releases/tag/v2.0.0
+* Check out: https://github.com/TwintailTeam/TwintailLauncher
 
 ## 🚀 How to Use
 1. Browse the `games/` folder for the title you want to play.
@@ -20,7 +22,6 @@ A community-driven collection of guides for installing and playing niche Windows
 3. If you encounter a bug not listed, please [Open an Issue](https://github.com/Brian2po/Ant0nz-Linux-Games-Guide-for-niche-Games/issues).
 
 ## 🤝 How to Contribute
-PS: IF YOU ARE A DEV [CHECK OUT THIS](https://github.com/an-anime-team/anime-games-launcher/releases/tag/v2.0.0) To add anime games to a launcher
 
 We love niche games! To add a guide:
 1. **Fork** this repository.
